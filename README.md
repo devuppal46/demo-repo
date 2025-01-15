@@ -1,2 +1,2 @@
 # demo-repo
-Demo repository to understang Github !
+## Demo repository to understang Github !
